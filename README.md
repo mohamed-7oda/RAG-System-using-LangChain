@@ -1,4 +1,4 @@
-# 📄 PDF Question Answering with Google Generative AI & Cohere
+# 📄 Document Question Answering with Google Generative AI & Cohere
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to answer questions based on the content of multiple PDF documents.  
 It uses:
