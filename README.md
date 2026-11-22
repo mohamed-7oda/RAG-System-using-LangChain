@@ -21,5 +21,5 @@ It uses:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pdf-rag-cohere.git
-cd pdf-rag-cohere
+git clone https://github.com/mohamed-7oda/RAG-System-using-LangChain.git
+cd RAG-System-using-LangChain
